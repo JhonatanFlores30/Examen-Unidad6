@@ -1,0 +1,8 @@
+Nombre del producto: Computadora
+Descripcion: rtx3060
+Precio: $25,000.00
+Cantidad en Stock: 45
+Nombre del producto: sabritas
+Descripcion: papitas
+Precio: $21.00
+Cantidad en Stock: 45
